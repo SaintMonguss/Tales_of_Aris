@@ -1,6 +1,6 @@
 ## Tales_of_Aris
 + Unity 기반의 2D 탑 뷰 퍼즐게임 Tales of Aris
-+ 4人으로 구성된 Project
++ 기획자 1명, 개발자 2명 디자인 1명으로 구성된 4인이서 진행한 Project
 + 주요 역할
 	+ Unity 메인 개발(퍼즐 로직 구현 및 이동 로직 구현)
 + 실행 환경
