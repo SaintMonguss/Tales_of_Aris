@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Moved_Default
+  - Moved_2x2
+  - Moved_1x2
+  - Moved_2x1
+  - Moved_7
+  - Special_Ice_Floor
+  - Clear
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Not_Moved
+  - Moved_Box
+  - Switch
+  - Destroy_Layer
+  - Just_Illuison
+  - ICE
+  - ICE_Floor
+  - Clear
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TransparentFX
+    uniqueID: 3613467171
+    locked: 0
+  - name: Ignore Raycast
+    uniqueID: 467600897
+    locked: 0
+  - name: Water
+    uniqueID: 1055678877
+    locked: 0
+  - name: Not_Moved
+    uniqueID: 3731207831
+    locked: 0
+  - name: Moved_Box
+    uniqueID: 1640832435
+    locked: 0
+  - name: Switch
+    uniqueID: 2035021167
+    locked: 0
+  - name: Destroy_Layer
+    uniqueID: 3888889589
+    locked: 0
+  - name: Just_Illuison
+    uniqueID: 385890947
+    locked: 0
+  - name: UI
+    uniqueID: 40518259
+    locked: 0
